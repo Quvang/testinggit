@@ -1,0 +1,2 @@
+# testinggit
+Repo til eksamen
